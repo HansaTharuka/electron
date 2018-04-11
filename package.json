@@ -1,0 +1,14 @@
+{
+  "name": "testingproject",
+  "version": "0.1.0",
+  "description": "testing project electron and vue js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "author": "Hansa Tharuka",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.8.4"
+  }
+}
